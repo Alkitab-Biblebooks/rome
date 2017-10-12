@@ -1,0 +1,1 @@
+﻿positionForPages[38]=[{word:"https://www.facebook.com/alkitab.biblebooks  read book  https://alkitab-biblebooks.github.io/rome",left:0.036000,top:0.023316,width:0.956733,height:0.012684}];
