@@ -97,8 +97,8 @@ btnTableOfContent:["btnBookMark"]
 	thumbPath : "files/thumb/",
 	
 	ToolBarsSettings:"",
-	TitleBar:"",
-	appLogoLinkURL:"",
+	TitleBar:"William Yap Web Master Developer",
+	appLogoLinkURL:"https://alkitab-biblebooks.github.io/",
 	bookTitle:"FLIPBUILDER",
 	bookDescription:"",
 	ButtonsBar:"",
@@ -127,8 +127,8 @@ btnTableOfContent:["btnBookMark"]
 	OpenWindow:"_Blank",
 
 	BookMarkButtonVisible:'true',
-	productName : 'Demo created by Flip PDF',
-	homePage : 'http://www.flipbuilder.com/',
+	productName : 'William Yap Web Developer',
+	homePage : 'https://alkitab-biblebooks.github.io/',
 	isFlipPdf : "true",
 	TableOfContentButtonVisible:"true",
 	searchTextJS:'javascript/search_config.js',
